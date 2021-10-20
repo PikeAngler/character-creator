@@ -9,6 +9,10 @@ body {
   margin: 0;
 }
 
+header {
+  width: 65%;
+}
+
 *,
 *:before,
 *:after {
