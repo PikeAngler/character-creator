@@ -9,3 +9,8 @@ a {
   color: white;
 }
 
+@media (max-width: 512px) {
+  .footer {
+    visibility: hidden;
+  }
+}

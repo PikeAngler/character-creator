@@ -13,6 +13,13 @@
   width: 50%;
 }
 
+
+@media (max-width: 512px) {
+  .controlPane {
+    width: 85%;
+  }
+}
+
 .title {
   margin: 0;
   /* Optical centering */
@@ -24,5 +31,4 @@
   font-size: 0.875rem;
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
-  width: 65%;
 }
